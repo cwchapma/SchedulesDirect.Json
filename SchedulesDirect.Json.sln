@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchedulesDirect.Json", "SchedulesDirect.Json\SchedulesDirect.Json.csproj", "{21DCC400-D5E1-472D-A011-44AD4E361C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{BC47B634-E6F0-45FA-A9E2-705502A51C61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21DCC400-D5E1-472D-A011-44AD4E361C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DCC400-D5E1-472D-A011-44AD4E361C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DCC400-D5E1-472D-A011-44AD4E361C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DCC400-D5E1-472D-A011-44AD4E361C55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC47B634-E6F0-45FA-A9E2-705502A51C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC47B634-E6F0-45FA-A9E2-705502A51C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC47B634-E6F0-45FA-A9E2-705502A51C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC47B634-E6F0-45FA-A9E2-705502A51C61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
