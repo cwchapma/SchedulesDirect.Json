@@ -3,6 +3,8 @@ SchedulesDirect.Json
 
 Library for getting TV guide data from Schedule Direct's JSON web API
 
+## Nuget
+This library is available in Nuget as [SchedulesDirect.Json](http://nuget.org/packages/SchedulesDirect.Json/)
 ## Unit Tests
 To run the unit tests, you'll need to put a valid username and password in the app.config file of the UnitTests project.
 
